@@ -13,3 +13,5 @@ persist.radio.snapshot_enabled=1
 persist.radio.snapshot_timer=22
 persist.eons.enabled=false
 
+# temp fix for dalvik-cache
+dalvik.vm.dexopt-data-only=1
